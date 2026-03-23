@@ -36,6 +36,7 @@ Observação: este projeto é um exemplo; para uso real você deve revisar e aju
 
 Estrutura atual
 
+.
 ├── index.html
-├── styles.css
 └── README.md
+├── styles.css
