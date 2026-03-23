@@ -34,9 +34,8 @@ Clique em "Começar Upload" para abrir o widget de upload do Cloudinary.
 
 Observação: este projeto é um exemplo; para uso real você deve revisar e ajustar as chaves, credenciais e endpoints, e tratar dados sensíveis adequadamente.
 
-## Notas
 Estrutura atual
-.
+
 ├── index.html
 ├── styles.css
 └── README.md
